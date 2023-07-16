@@ -26,6 +26,7 @@
 |날짜|챕터|발표자|
 |-|-|-|
 |7/12|OT|-|
+|〃|서론|[김하진](https://github.com/hajin-kim)|
 |7/19|1|[김하진](https://github.com/hajin-kim)|
 |〃|2|[정현우](https://github.com/BLUEBERRYLJ)|
 |7/26|3|[김태현](https://github.com/tanggu01)|
